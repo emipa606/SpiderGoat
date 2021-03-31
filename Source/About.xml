@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Spider Goat</name>
+  <author>Sera</author>
+  <url>https://ko-fi.com/missbones</url>
+  <targetVersion>0.17.0</targetVersion>
+  <description>
+Introduces a very friendly but fragile g-modded livestock: the Spidergoat! Produces spidergoat silk, which can be woven into synththread. Can only be bought off traders.
+
+
+Thanks to spdskatr for helping me with the XML fields! Go check out their mods: https://steamcommunity.com/id/spdskatr/myworkshopfiles/?appid=294100
+</description>
+</ModMetaData>
