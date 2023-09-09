@@ -1,5 +1,8 @@
 # Changelog for SpiderGoat
 
+1.4.2 - Added AnimalFarm-tradeTag
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 

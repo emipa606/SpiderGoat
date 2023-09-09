@@ -30,4 +30,5 @@ Thanks to spdskatr for helping me with the XML fields! Go check out their mods: 
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2442008780]![Image](https://img.shields.io/github/v/release/emipa606/SpiderGoat?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
 

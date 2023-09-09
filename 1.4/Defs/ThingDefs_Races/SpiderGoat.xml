@@ -82,6 +82,7 @@ However Spider goats are a very high maintenance domestic animal and cannot surv
     </race>
     <tradeTags>
       <li>AnimalCommon</li>
+      <li>AnimalFarm</li>
     </tradeTags>
   </ThingDef>
   <PawnKindDef ParentName="AnimalKindBase">
