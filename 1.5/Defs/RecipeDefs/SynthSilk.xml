@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef>
+    <defName>WeaveSilk</defName>
+    <label>weave synthread</label>
+    <description>Weave synthread from silk polymers.</description>
+    <jobString>Weaving</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Tailor</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>1000</workAmount>
+    <targetCountAdjustment>5</targetCountAdjustment>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SynthSilk</li>
+          </thingDefs>
+        </filter>
+        <count>50</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>SynthSilk</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Synthread>30</Synthread>
+    </products>
+    <workSkill>Crafting</workSkill>
+    <recipeUsers>
+      <li>ElectricTailoringBench</li>
+      <li>HandTailoringBench</li>
+    </recipeUsers>
+    <skillRequirements>
+      <Crafting>10</Crafting>
+    </skillRequirements>
+  </RecipeDef>
+</Defs>

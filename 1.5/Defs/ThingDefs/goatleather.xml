@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_SpiderGoatHide</defName>
+    <label>spider goathide</label>
+    <graphicData>
+      <color>(200,100,100)</color>
+    </graphicData>
+    <statBases>
+      <StuffPower_Insulation_Cold>10</StuffPower_Insulation_Cold>
+    </statBases>
+    <stuffProps>
+      <color>(200,100,100)</color>
+    </stuffProps>
+  </ThingDef>
+</Defs>
