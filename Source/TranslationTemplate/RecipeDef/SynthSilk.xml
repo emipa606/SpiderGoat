@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: weave synthread -->
+  <WeaveSilk.label>weave synthread</WeaveSilk.label>
+  <!-- EN: Weave synthread from silk polymers. -->
+  <WeaveSilk.description>Weave synthread from silk polymers.</WeaveSilk.description>
+  <!-- EN: Weaving -->
+  <WeaveSilk.jobString>Weaving</WeaveSilk.jobString>
+</LanguageData>

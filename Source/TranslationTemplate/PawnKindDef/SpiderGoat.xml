@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: spider goat -->
+  <SpiderGoat.label>spider goat</SpiderGoat.label>
+  <!-- EN: spider goats -->
+  <SpiderGoat.labelPlural>spider goats</SpiderGoat.labelPlural>
+  <!-- EN: spider kid -->
+  <SpiderGoat.lifeStages.spider_kid-0.label>spider kid</SpiderGoat.lifeStages.spider_kid-0.label>
+  <!-- EN: spider kids -->
+  <SpiderGoat.lifeStages.spider_kid-0.labelPlural>spider kids</SpiderGoat.lifeStages.spider_kid-0.labelPlural>
+  <!-- EN: spider kid -->
+  <SpiderGoat.lifeStages.spider_kid-1.label>spider kid</SpiderGoat.lifeStages.spider_kid-1.label>
+  <!-- EN: spider kids -->
+  <SpiderGoat.lifeStages.spider_kid-1.labelPlural>spider kids</SpiderGoat.lifeStages.spider_kid-1.labelPlural>
+</LanguageData>

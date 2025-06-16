@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: spider goat -->
+  <SpiderGoat.label>spider goat</SpiderGoat.label>
+  <!-- EN: A genetically engineered goat. Spliced with spider DNA, instead of milk they produce a silk-based synthread precursor. As a living synthread making machine they are very valuable.\n     \nHowever Spider goats are a very high maintenance domestic animal and cannot survive without human care. This is due to the goat being genetically optimized to produce silk, at the detriment of other biological functions. -->
+  <SpiderGoat.description>A genetically engineered goat. Spliced with spider DNA, instead of milk they produce a silk-based synthread precursor. As a living synthread making machine they are very valuable.
+     
+However Spider goats are a very high maintenance domestic animal and cannot survive without human care. This is due to the goat being genetically optimized to produce silk, at the detriment of other biological functions.</SpiderGoat.description>
+  <!-- EN: head -->
+  <SpiderGoat.tools.head.label>head</SpiderGoat.tools.head.label>
+</LanguageData>

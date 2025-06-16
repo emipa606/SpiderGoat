@@ -13,6 +13,7 @@ However Spider goats are a very high maintenance domestic animal and cannot surv
       <ToxicResistance>-0.5</ToxicResistance>
       <MarketValue>3000</MarketValue>
       <ImmunityGainSpeed>0.5</ImmunityGainSpeed>
+      <Wildness>0</Wildness>
     </statBases>
     <comps>
       <li Class="CompProperties_Milkable">
@@ -55,7 +56,6 @@ However Spider goats are a very high maintenance domestic animal and cannot surv
       <foodType>VegetarianRoughAnimal</foodType>
       <leatherDef>Leather_SpiderGoatHide</leatherDef>
       <manhunterOnTameFailChance>0.0</manhunterOnTameFailChance>
-      <wildness>0</wildness>
       <gestationPeriodDays>60</gestationPeriodDays>
       <lifeExpectancy>8</lifeExpectancy>
       <lifeStageAges>
